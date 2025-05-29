@@ -1,4 +1,4 @@
-# Cart
+ Cart
 
 Cart is a microservice that is responsible for Cart Service in RobotShop e-commerce portal.
 
