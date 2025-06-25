@@ -1,6 +1,3 @@
-https://file+.vscode-resource.vscode-cdn.net/c%3A/devops/repos/roboshop-3-tier-setup/roboshop.svg?version%3D1750840646043
-
-
 
 RoboShop Three-Tier Architecture Deployment
 
